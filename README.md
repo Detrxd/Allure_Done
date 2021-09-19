@@ -13,3 +13,7 @@ git add -f artifacts/app-ibank.jar
 git add *
 git commit -am "Initial commit"
 -->
+
+**Allure Report** 
+
+![mark3](https://user-images.githubusercontent.com/83371479/133935478-aafa442a-e016-42c6-be90-c4d40ed901cc.png)
